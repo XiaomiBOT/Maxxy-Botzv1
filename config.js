@@ -1,7 +1,7 @@
 global.you = ['6285380166282'] // Developer Bot
 global.rowner = ['6285380166282'] // Real Owner Bot
-global.owner = ['6285380166282'] // Owner Bot
-global.police = ['6281328901038'] // Police Bot
+global.owner = ['6288991199562'] // Owner Bot
+global.police = ['6288991199562'] // Police Bot
 global.mods = ['6285380166282']  // Want some help?
 global.prems = ['6285380166282'] // Premium user has unlimited limit
 global.helper = ['6285380166282']
@@ -56,7 +56,7 @@ global.socket = {
 
 global.useMulti = false
 
-global.media = 'https://telegra.ph/file/4a23ffd1899fcac2eb613.jpg'
+global.media = 'https://telegra.ph/file/2027a784aabc2b816cad7.jpg'
 
 // Sticker WM
 global.packname = '𝐌𝐚𝐱𝐱𝐲 𝐁𝐨𝐭𝐳'
