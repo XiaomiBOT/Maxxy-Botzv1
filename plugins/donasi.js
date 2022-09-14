@@ -6,7 +6,8 @@ Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 
 ┌〔 Donasi • Emoney 〕
-├🔃 Scan Barcod Qrisnya diatas🤗
+├🔃 Dana : 0853-8016-6282
+├🔃 Pulsa : 0852-9537-4964
 └────
 
 Berapapun donasi kalian akan sangat berarti 👍
