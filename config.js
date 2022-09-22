@@ -1,10 +1,10 @@
-global.you = ['6285380166282'] // Developer Bot
-global.rowner = ['6285380166282'] // Real Owner Bot
-global.owner = ['6288991199562'] // Owner Bot
-global.police = ['6288991199562'] // Police Bot
-global.mods = ['6285380166282']  // Want some help?
-global.prems = ['6285380166282'] // Premium user has unlimited limit
-global.helper = ['6285380166282']
+global.you = ['62857791505014'] // Developer Bot
+global.rowner = ['62857791505014'] // Real Owner Bot
+global.owner = ['62857791505014'] // Owner Bot
+global.police = ['6285779150501'] // Police Bot
+global.mods = ['62857791505014']  // Want some help?
+global.prems = ['62857791505014'] // Premium user has unlimited limit
+global.helper = ['62857791505014']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -59,9 +59,9 @@ global.useMulti = false
 global.media = 'https://telegra.ph/file/2027a784aabc2b816cad7.jpg'
 
 // Sticker WM
-global.packname = '𝐌𝐚𝐱𝐱𝐲 𝐁𝐨𝐭𝐳'
-global.author = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
-global.wm = '© 𝐌𝐚𝐱𝐱𝐲 𝐁𝐨𝐭𝐳'
+global.packname = 'Xiaomi 𝐁𝐨𝐭𝐳'
+global.author = 'Xiaomi-𝙓𝘿'
+global.wm = '© Xiaomi 𝐁𝐨𝐭𝐳'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
